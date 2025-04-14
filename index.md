@@ -1,7 +1,7 @@
 ---
 title: Welcome to my blog
 
-# About Me
+About Me
 I have IQ 160+++
 ---
 
